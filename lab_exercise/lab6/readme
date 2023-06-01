@@ -1,3 +1,3 @@
 This programming assignment aims to use fork() to simulate 4 people playing the card game hearts according to the game's rule. The bonus version achieved two bonus 
-strategies: a player could try to play a high card that is just smaller than the highest played card to reduce the risk ofwinning in the upcoming tricks (S1). If a player is the last 
-player and will win the cards even with the lowest card, he/she will play the highest card to win instead, so as to keep the low cards in hand forfuture use (S2).
+strategies: a player could try to play a high card that is just smaller than the highest played card to reduce the risk ofwinning in the upcoming tricks (S1). If a 
+player is the last player and will win the cards even with the lowest card, he/she will play the highest card to win instead, so as to keep the low cards in hand forfuture use (S2).
